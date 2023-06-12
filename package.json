@@ -1,0 +1,10 @@
+{
+  "name": "node-platformer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
